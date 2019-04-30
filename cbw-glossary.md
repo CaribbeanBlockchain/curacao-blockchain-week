@@ -1,17 +1,17 @@
 # Blockchain & Crypto Glossary
 
 ## Table of contents
-* [Basics](https://github.com/a-vieira/cbw-test/blob/master/cbw-glossary.md#basics)
-* [Bitcoin](https://github.com/a-vieira/cbw-test/blob/master/cbw-glossary.md#bitcoin)
-* [Cryptography](https://github.com/a-vieira/cbw-test/blob/master/cbw-glossary.md#cryptography)
-* [Ethereum](https://github.com/a-vieira/cbw-test/blob/master/cbw-glossary.md#ethereum)
-* [Exchanges](https://github.com/a-vieira/cbw-test/blob/master/cbw-glossary.md#exchanges)
-* [Future of Organization](https://github.com/a-vieira/cbw-test/blob/master/cbw-glossary.md#future-of-organizations)
-* [Tokenomics](https://github.com/a-vieira/cbw-test/blob/master/cbw-glossary.md#tokenomics)
-* [Technicalities](https://github.com/a-vieira/cbw-test/blob/master/cbw-glossary.md#technicalities)
-* [Wallet Types](https://github.com/a-vieira/cbw-test/blob/master/cbw-glossary.md#wallet-types)
-* [Key Personas](https://github.com/a-vieira/cbw-test/blob/master/cbw-glossary.md#blockchain-key-personas)
-* [Sources](https://github.com/a-vieira/cbw-test/blob/master/cbw-glossary.md#sources)
+* [Basics](https://github.com/CaribbeanBlockchain/curacao-blockchain-week/blob/master/cbw-glossary.md#basics)
+* [Bitcoin](https://github.com/CaribbeanBlockchain/curacao-blockchain-week/blob/master/cbw-glossary.md#bitcoin)
+* [Cryptography](https://github.com/CaribbeanBlockchain/curacao-blockchain-week/blob/master/cbw-glossary.md#cryptography)
+* [Ethereum](https://github.com/CaribbeanBlockchain/curacao-blockchain-week/blob/master/cbw-glossary.md#ethereum)
+* [Exchanges](https://github.com/CaribbeanBlockchain/curacao-blockchain-week/blob/master/cbw-glossary.md#exchanges)
+* [Future of Organization](https://github.com/CaribbeanBlockchain/curacao-blockchain-week/blob/master/cbw-glossary.md#future-of-organizations)
+* [Tokenomics](https://github.com/CaribbeanBlockchain/curacao-blockchain-week/blob/master/cbw-glossary.md#tokenomics)
+* [Technicalities](https://github.com/CaribbeanBlockchain/curacao-blockchain-week/blob/master/cbw-glossary.md#technicalities)
+* [Wallet Types](https://github.com/CaribbeanBlockchain/curacao-blockchain-week/blob/master/cbw-glossary.md#wallet-types)
+* [Key Personas](https://github.com/CaribbeanBlockchain/curacao-blockchain-week/blob/master/cbw-glossary.md#blockchain-key-personas)
+* [Sources](https://github.com/CaribbeanBlockchain/curacao-blockchain-week/blob/master/cbw-glossary.md#sources)
 
 ## Basics 
 * __Altcoin__: a catch-all term used to refer to all cryptocurrencies beyond Bitcoin such as: Litecoin, Monero and Zcash among many others.
